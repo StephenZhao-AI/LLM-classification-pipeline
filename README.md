@@ -1,7 +1,7 @@
 # LLM Classification Pipeline
 
 ## Overview
-Built a two-stage LLM pipeline using GPT-4o and DeepSeek R1 to classify unstructured text.
+Built a two-stage LLM pipeline using GPT-4o and DeepSeek R1 to classify unstructured text. Preview not available.
 
 ## Features
 - Structured data extraction
